@@ -241,7 +241,7 @@ export default function BigOPage() {
                 </h3>
                 <p className="text-gray-300 mb-4">
                   Measures how the runtime of an algorithm grows as the input size increases. 
-                  It helps us understand the efficiency of our code.
+                  It helps us understand the efficiency of our code. xxxxxxxxx
                 </p>
                 <div className="text-sm text-gray-400">
                   <strong>Example:</strong> A loop that runs n times has O(n) time complexity.
